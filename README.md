@@ -14,7 +14,7 @@ The goal of this repository is to:
 ## Getting Started
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-org/te3-scripts.git
+   [git clone https://github.com/your-org/te3-scripts.git](https://github.com/Mithril1991/TE3_Scripts.git)
 ### Getting Started
 2. Open Tabular Editor 3
 3. Load or copy the desired script into the Advanced Scripting window
